@@ -4,7 +4,7 @@ pipeline {
         stage('build') {
             steps {
 <<<<<<< HEAD
-                echo 'Clarusway_Way to Reinvent Yourself...'
+                echo 'Clarusway_Way to Reinvent Yourself...updated january29'
 =======
                 echo 'Clarusway_Way to Reinvent Yourself'
 >>>>>>> f23f975e0a2761b57e1a0c35cc1a0d6c7194e660
